@@ -1,0 +1,7 @@
+#忽略 npm 安裝的程式包
+node_modules
+#將你不想要簽入(check in) 的檔案都放在這裡，例如 .DS_Store
+#(OXS), *.bak, etc.
+# 忽略所有檔名以「~」結尾的檔案，如編輯器建立備份檔案時，會在結尾加上「~」(ex:meadowlark.js~)
+*~
+.DS_Store
